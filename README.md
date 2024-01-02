@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre ÖNEÇ</h1>
 <h3 align="center">I am a 4th year student of Bulent Ecevit University Computer Engineering Department. I always trying to learn new technologies about software development and I always developing myself.</h3>
 
-- 👨‍💻 All of my projects are available at [yunusemreonec81@icloud.com](yunusemreonec81@icloud.com)
+- 👨‍💻 You can reach me at this address [yunusemreonec81@icloud.com](yunusemreonec81@icloud.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
