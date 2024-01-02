@@ -1,4 +1,4 @@
-[![MasterHead](http:)
+
 <h1 align="center">Hi 👋, I'm Yunus Emre ÖNEÇ</h1>
 <h3 align="center">I am a 4th year student of Bulent Ecevit University Computer Engineering Department. I always trying to learn new technologies about software development and I always developing myself.</h3>
 
