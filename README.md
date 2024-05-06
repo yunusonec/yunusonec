@@ -16,3 +16,5 @@ I am a 4th year student of Bulent Ecevit University Computer Engineering Departm
 [![](https://visitcount.itsvg.in/api?id=yunusonec&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/yunusonec/yunusonec/blob/output/github-contribution-grid-snake.gif)
