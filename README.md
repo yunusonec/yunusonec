@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a 4th year student of Bulent Ecevit University Computer Engineering Department. I always trying to learn new technologies about software development and I always developing myself.<br><br>I have worked on web technologies mostly like ASP.NET MVC on back-end and HTML, CSS, JavaScript on front-end. I'm still learning ReactJS. I started my targeted Computer Engineering department in 2020. I always disciplined and tried to be a responsible person. In line with this principle, I always do well at my school. Besides making an academic career, I aimed to constantly improve myself. School's software related clubs such as GDSC, GDG I joined. In addition to this, I thought that I would not be able to learn the technical parts of the job sufficiently at school. I decided to develop individually in the software field. As a result of this awareness, I feel myself extra from the outside. I started to develop with new information and technologies that I learned from sources.
+Hello, my name is Yunus Emre Öneç. I am a dedicated software developer with a talent for quick problem-solving, creative thinking, and effective software system management. I am passionate about learning new technologies and embracing creative challenges.
+
+My goal is to develop high-quality, sensible software that makes a positive impact. I strive to stay updated with the latest industry trends and continuously improve my skills to deliver reliable and innovative solutions.
 
 
 ## 🌐 Socials:
