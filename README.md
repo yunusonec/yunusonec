@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Yunus Emre Öneç. I am a dedicated software developer with a talent for quick problem-solving, creative thinking, and effective software system management. I am passionate about learning new technologies and embracing creative challenges.<br><br>My goal is to develop high-quality, sensible software that makes a positive impact. I strive to stay updated with the latest industry trends and continuously improve my skills to deliver reliable and innovative solutions.
+I am a dedicated software developer with a talent for quick problem-solving, creative thinking, and effective software system management. I am passionate about learning new technologies and embracing creative challenges.<br><br>My goal is to develop high-quality, sensible software that makes a positive impact. I strive to stay updated with the latest industry trends and continuously improve my skills to deliver reliable and innovative solutions.
 
 
 ## 🌐 Socials:
