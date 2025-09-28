@@ -47,5 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
   <img width="12" />
 
-
 ###
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kod-ustasi&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
