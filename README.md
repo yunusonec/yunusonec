@@ -53,4 +53,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusonec&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusonec&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake animation](https://github.com/yunusonec/yunusonec/blob/output/snake.svg)
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yunusonec/yunusonec/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yunusonec/yunusonec/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yunusonec/yunusonec/output/pacman-contribution-graph.svg">
+</picture>
